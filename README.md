@@ -12,7 +12,7 @@ Amethyst is an [Electron-based](https://electronjs.org/) cross-platform audio pl
 ![Amethyst](https://cdn.discordapp.com/attachments/667464431562653706/1185332870064128020/image.png?ex=658f3a42&is=657cc542&hm=17279c55c3a1bb9b1e1d188a01d065a8afdebb35b2ec70402b62ee9bb454aecc&)
 ## [Download](https://amethyst.pages.dev/installation/package_managers.html)
 ## [Documentation](https://amethyst.pages.dev/introduction.html)
-
+ 
 
 ## 📝 Contributing
 - Use `Node.js v19.1.0`
