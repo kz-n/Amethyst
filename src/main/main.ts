@@ -9,7 +9,7 @@
 import { Menu, app } from "electron";
 import { checkForUpdatesAndInstall, MainWindow } from "./mainWindow";
 import Store from "electron-store";
-export const store = new Store();
+export const store = new Store(); 
 
 export const IS_DEV = process.env.NODE_ENV === "development" || process.env.DEBUG_PROD === "true";
 if (process.env.NODE_ENV === "production")
